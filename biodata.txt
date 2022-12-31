@@ -1,3 +1,10 @@
 -Nama = Muhammad Zikra
 -npm = 20105111046
 - tempat tinggal = paya linteung
+Device name	DESKTOP-MUJNSSB
+Processor	Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz   2.81 GHz
+Installed RAM	8,00 GB (7,89 GB usable)
+Device ID	B3DC7746-CFF9-4327-851E-F5B1E27D9CFB
+Product ID	00327-35180-49615-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
